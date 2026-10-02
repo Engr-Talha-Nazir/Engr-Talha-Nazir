@@ -7,7 +7,7 @@
 
 # Engr. Talha Nazir
 
-#### Senior ML Engineer · Tech Lead · Recommender Systems
+#### Machine Learning Engineer | Python Developer | Big Data Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=58A6FF&center=true&vCenter=true&width=760&height=200&lines=Senior+ML+Engineer+%2F+Tech+Lead+%40+Yandex+Market%0ARecommender+Systems+%7C+Ranking+%7C+Personalization%0APython+%7C+PyTorch+%7C+CatBoost+%7C+Transformers%0A5%2B+years+building+production-scale+ML+systems%0AMoscow+%2C+Russia" alt="Typing SVG" />
@@ -49,13 +49,11 @@
 
 ## 👋 Who I Am
 
-I'm **Talha Nazir** — a **Senior Machine Learning Engineer** and **Tech Lead** at [**Yandex**](https://yandex.com), working on the **Personalization & Recommendations** team for **Yandex Market**, one of the largest e-commerce marketplaces in Europe.
+I'm **Talha Nazir** — a **Machine Learning Engineer** and **Tech Lead** at [**Yandex**](https://yandex.com), on the **Personalization & Recommendations** team for **Yandex Market**, one of the largest e-commerce marketplaces in Europe.
 
-I drive the design and improvement of **large-scale recommendation and ranking systems** — building and productionizing models for **retrieval, personalization, and candidate generation** from user and item interaction data. Much of my work is about the unglamorous parts that decide whether a system actually works in production: improving **recommendation quality and coverage**, cutting **latency**, and keeping **pipelines efficient** as traffic scales.
+I build and productionize **large-scale recommendation and ranking systems** — covering **retrieval, personalization, and candidate generation** — and focus on recommendation quality, coverage, and latency under real production load.
 
-Alongside hands-on modelling, I **coordinate ML initiatives**, support engineering decisions, and **mentor engineers** across model development and deployment.
-
-Before Yandex I spent three years as an **ML Engineer at Nextbridge Ltd.** in Pakistan building data pipelines and predictive models, shipped **ML and LLM services to production on cloud platforms** at Codexby, and **taught machine learning** to university students at the **University of Wollongong**. I hold a **BSc in Computer Systems Engineering** and an **MSc in Business Analytics & Big Data Systems** from **HSE, Moscow**.
+I also **coordinate ML initiatives**, support engineering decisions, and **mentor engineers** across model development and deployment.
 
 </td>
 <td width="40%" valign="top">
