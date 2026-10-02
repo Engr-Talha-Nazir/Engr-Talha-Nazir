@@ -10,7 +10,7 @@
 #### Machine Learning Engineer | Python Developer | Big Data Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=58A6FF&center=true&vCenter=true&width=760&height=200&lines=Senior+ML+Engineer+%2F+Tech+Lead+%40+Yandex+Market%0ARecommender+Systems+%7C+Ranking+%7C+Personalization%0APython+%7C+PyTorch+%7C+CatBoost+%7C+Transformers%0A5%2B+years+building+production-scale+ML+systems%0AMoscow+%2C+Russia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1800&color=58A6FF&center=true&vCenter=true&width=760&height=130&lines=Machine+Learning+Engineer+%7C+Python+Developer%0AData+Scientist+%7C+Big+Data+Engineer%0A%40+Yandex+Market+%7C+Moscow+%2C+Russia" alt="Typing SVG" />
 </a>
 
 </div>
